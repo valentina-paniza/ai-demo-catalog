@@ -1,7 +1,7 @@
 ---
 title: Lung Tumor Detection
 date: 2021-10-24T22:00:00+00:00
-description: This is meta description
+description: Lung cancer detection demo
 type: featured
 image: "/images/lung-tumor.jpg"
 categories:
