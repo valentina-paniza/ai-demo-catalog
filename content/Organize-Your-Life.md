@@ -1,6 +1,6 @@
 ---
 title: Lung Tumor Detection
-date: 
+date: 2021-10-24T22:00:00+00:00
 description: This is meta description
 type: featured
 image: "/images/lung-tumor.jpg"
